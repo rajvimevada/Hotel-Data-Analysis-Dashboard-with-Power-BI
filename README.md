@@ -1,11 +1,10 @@
 # Hotel-Data-Analysis-Dashboard-with-Power-BI
 
 Here is the client's requirement
-Is our Hotel revenue growing by year? 
 
-Should we increase our parking lot size?
-
-What trends can we see in the data?
+- Is our Hotel revenue growing by year? 
+- Should we increase our parking lot size?
+- What trends can we see in the data?
 
 Here is the interactive Power BI dashboard
 
